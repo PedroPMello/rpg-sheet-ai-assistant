@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723336233447",
+    "project_id": "fichas-de-rpg-b94cc",
+    "storage_bucket": "fichas-de-rpg-b94cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723336233447:android:a5a7248748bff25a463d42",
+        "android_client_info": {
+          "package_name": "com.example.fichasrpg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiT0ixIm65q74WbAmqNUFvnGv96Q0a4dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
